@@ -6,4 +6,4 @@ https://qiita.com/azul915/items/5b7063cbc80192343fc0
 
 # 発生してるエラー
 webのコンテナが作成されてない(7/21 23:25)
-→database.ymlファイルの編集後発生した
+→database.ymlファイルの編集後発生した可能性大
