@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+7/21docker練習
+https://qiita.com/azul915/items/5b7063cbc80192343fc0
+を基に練習
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###発生してるエラー
+webのコンテナが作成されてない(7/21 23:25)
